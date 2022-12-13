@@ -1,4 +1,4 @@
-## Employee Face Recognition System
+## Face Recognition System using Django
 
 The face recogntion system is used to train the faces of employees and detect them when they walk past the camera.
 It can be used as an attendence system for the employees.
@@ -94,6 +94,6 @@ If new employee images are captured, then the model needs to be trained again. O
 
 
 **6)ScreenShot**
-![](https://github.com/Divyansh6799/Face-recognition-in-python-django/blob/master/IMG20220424203242.jpg)
 ![](https://github.com/Divyansh6799/Face-recognition-in-python-django/blob/master/IMG20220424203310.jpg)
+![](https://github.com/Divyansh6799/Face-recognition-in-python-django/blob/master/IMG20220424203242.jpg)
 ![](https://github.com/Divyansh6799/Face-recognition-in-python-django/blob/master/IMG20220424203436.jpg)
